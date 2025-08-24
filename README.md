@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Zepto,BlinkIt**
+- 🔭I’m currently learning  **SQL,POWERBI,Tableau**
 
-- 🌱 I’m currently learning **React Fiber,C++,js,node,PowerBI,**
+- 🌱 I’m currently learning **,SQL,PowerBI,Tableau**
 
 - 📫 How to reach me **aftab78u@gmail.com**
 
